@@ -46,12 +46,12 @@ The project demonstrates core Python programming, object-oriented design, and fi
 ## How to Run
 
 1. Clone the repository:
+```bash
+git clone https://github.com/harshitaagarwal-dev/cli-expense-tracker.git
+cd cli-expense-tracker
 
-``` git clone https://github.com/harshitaagarwal-dev/cli-expense-tracker.git
-cd cli-expense-tracker ```
 
-
-2.Run the program:
+2. Run the program:
 
 `python app.py`
 
