@@ -49,7 +49,7 @@ The project demonstrates core Python programming, object-oriented design, and fi
 ```bash
 git clone https://github.com/harshitaagarwal-dev/cli-expense-tracker.git
 cd cli-expense-tracker
-
+```
 
 2. Run the program:
 
@@ -63,7 +63,8 @@ cd cli-expense-tracker
 4.  Summary by category
 5.  Summary by month
 6.  Export CSV
-7.  Quit ```
+7.  Quit
+```
 
 ## Author
 
