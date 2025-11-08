@@ -47,23 +47,23 @@ The project demonstrates core Python programming, object-oriented design, and fi
 
 1. Clone the repository:
 
-```git clone https://github.com/harshitaagarwal-dev/cli-expense-tracker.git
-cd cli-expense-tracker```
+``` git clone https://github.com/harshitaagarwal-dev/cli-expense-tracker.git
+cd cli-expense-tracker ```
 
 
-2. Run the program:
+2.Run the program:
 
 `python app.py`
 
 ## Example Output
-```=== CLI Expense Tracker ===
+``` === CLI Expense Tracker ===
 1.  Add expense
 2.  List expenses
 3.  Show total spent
 4.  Summary by category
 5.  Summary by month
 6.  Export CSV
-7.  Quit```
+7.  Quit ```
 
 ## Author
 
