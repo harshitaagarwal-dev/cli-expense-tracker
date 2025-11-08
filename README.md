@@ -70,9 +70,9 @@ cd cli-expense-tracker
 
 **Harshita Agarwal**
 Computer Science Engineer | Python Developer
-[LinkedIn](https://linkedin.com/in/harshitaagarwal)
-[Github](https://github.com/harshitaagarwal-dev)
-Email: harshitaaga1967@gmail.com
+- [LinkedIn](https://linkedin.com/in/harshitaagarwal)
+- [Github](https://github.com/harshitaagarwal-dev)
+-Email: harshitaaga1967@gmail.com
 
 ## Summary
 
