@@ -72,7 +72,7 @@ cd cli-expense-tracker
 Computer Science Engineer | Python Developer
 - [LinkedIn](https://linkedin.com/in/harshitaagarwal)
 - [Github](https://github.com/harshitaagarwal-dev)
--Email: harshitaaga1967@gmail.com
+- Email: harshitaaga1967@gmail.com
 
 ## Summary
 
