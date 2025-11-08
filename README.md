@@ -1,77 +1,79 @@
-#CLI Expense Tracker
+# CLI Expense Tracker
 
 A simple command-line Python application to manage and analyze daily expenses.
 The project demonstrates core Python programming, object-oriented design, and file handling.
 
-###Features
+## Features
 
-Add new expenses with name, amount, category, and notes
+- Add new expenses with name, amount, category, and notes
 
-View all recorded expenses
+- View all recorded expenses
 
-Get total expenditure
+- Get total expenditure
 
-Summarize expenses by category or month
+- Summarize expenses by category or month
 
-Export data to a CSV file
+- Export data to a CSV file
 
-Data automatically saved to expenses.csv
-
-
-###Skills Demonstrated
-
-Core **Python programming (loops, functions, and OOP concepts)**
-
-File handling and data persistence using CSV
-
-Use of data structures (lists and dictionaries) for aggregation
-
-Modular and reusable code design
-
-Version control with Git and GitHub
+- Data automatically saved to expenses.csv
 
 
-###Tech Stack
+## Skills Demonstrated
 
-Language: Python 3
+- Core Python programming (loops, functions, and OOP concepts)
 
-Modules: csv, datetime, collections, os
+- File handling and data persistence using CSV
 
-Environment: Command-line interface
+- Use of data structures (lists and dictionaries) for aggregation
 
-Tools: VS Code, Git, GitHub
+- Modular and reusable code design
 
-
-
-###How to Run
-
-Clone the repository:
-
-git clone https://github.com/harshitaagarwal-dev/cli-expense-tracker.git
-cd cli-expense-tracker
+- Version control with Git and GitHub
 
 
-Run the program:
+## Tech Stack
 
-python app.py
+**Language**: Python 3
 
-###Example Output
-=== CLI Expense Tracker ===
-1. Add expense
-2. List expenses
-3. Show total spent
-4. Summary by category
-5. Summary by month
-6. Export CSV
-7. Quit
+**Modules**: csv, datetime, collections, os
 
-Author
+**Environment**: Command-line interface
+
+**Tools**: VS Code, Git, GitHub
+
+
+
+## How to Run
+
+1. Clone the repository:
+
+```git clone https://github.com/harshitaagarwal-dev/cli-expense-tracker.git
+cd cli-expense-tracker```
+
+
+2. Run the program:
+
+`python app.py`
+
+## Example Output
+```=== CLI Expense Tracker ===
+1.  Add expense
+2.  List expenses
+3.  Show total spent
+4.  Summary by category
+5.  Summary by month
+6.  Export CSV
+7.  Quit```
+
+## Author
 
 **Harshita Agarwal**
 Computer Science Engineer | Python Developer
+[LinkedIn](https://linkedin.com/in/harshitaagarwal)
+[Github](https://github.com/harshitaagarwal-dev)
 Email: harshitaaga1967@gmail.com
 
-###Summary
+## Summary
 
 This project demonstrates practical knowledge of Python fundamentals, OOP, and real-world data handling.
 It marks the beginning of my journey toward backend and data-focused development.
